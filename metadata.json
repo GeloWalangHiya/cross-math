@@ -1,0 +1,6 @@
+{
+  "name": "Cross Math",
+  "description": "A tactile crossword-style math puzzle game with PEMDAS validation, daily challenges, combo streaks, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
